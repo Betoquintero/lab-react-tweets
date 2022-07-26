@@ -40,6 +40,7 @@ function App() {
       <section className="cards">
         <Tweet tweetsArray={tweetsArray[0]}></Tweet>
         <Tweet tweetsArray={tweetsArray[1]}></Tweet>
+        <Tweet tweetsArray={tweetsArray[2]}></Tweet>
       </section>
     </div>
   );
